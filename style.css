@@ -393,7 +393,7 @@ section .title::before {
 }
 
 .gallery .gallery-content a:hover {
-    color: #fff;
+    color: crimson;
     background: none;
 }
 
