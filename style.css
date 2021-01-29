@@ -392,6 +392,11 @@ section .title::before {
     margin-left: 43%;
 }
 
+.gallery .gallery-content a:hover {
+    color: #fff;
+    background: none;
+}
+
 
 /* contact section */
 
